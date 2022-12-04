@@ -1,0 +1,18 @@
+/* 폰트 */
+/* Neo둥근모 Code */
+@import url('//cdn.jsdelivr.net/gh/neodgm/neodgm-webfont@1.530/neodgm_code/style.css');
+
+/* 프리텐다드 */
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.6/dist/web/variable/pretendardvariable.css');
+
+/* 나눔스퀘어 */
+@import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
+
+body {
+  margin: 0;
+  padding: 0;
+  /* font-family: 'NanumSquare', serif; */
+  -webkit-font-smoothing: antialised;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+}
